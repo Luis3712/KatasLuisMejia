@@ -1,0 +1,2 @@
+# KatasPython
+Excercises of python 
