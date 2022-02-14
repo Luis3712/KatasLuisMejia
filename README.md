@@ -1,2 +1,2 @@
 # KatasPython by Luis Mejia Villeda
-Excercises of python 
+Excercises of python from LauncherX
